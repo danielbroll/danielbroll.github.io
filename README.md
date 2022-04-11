@@ -89,7 +89,7 @@ I'm a fan of Github Pages for the possibilities it offers to anyone to publish a
 
 ## Contributing
 
-See the [Contribution Guide](./CONTRIBUTING.md).
+See the [about page](./about.md).
 
 ## License
 
