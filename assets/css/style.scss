@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+}
+
+.project-tagline {
+    margin-bottom: 0rem;
+    font-weight: normal;
+    opacity: 0;
+}
+
+.main-content {
+    h1 {
+        display: none;
+    }
+    padding-top: 0rem;
+}
+
+.site-footer {
+    display: none;
+}
